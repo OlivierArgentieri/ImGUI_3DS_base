@@ -6,8 +6,8 @@
 .PHONY: release-3dsx-classic release-cia-classic release-nro-classic
 
 export GITREV  := $(shell git rev-parse HEAD 2>/dev/null | cut -c1-6)
-export VERSION_MAJOR := 3
-export VERSION_MINOR := 1
+export VERSION_MAJOR := 0
+export VERSION_MINOR := 0
 export VERSION_MICRO := 0
 export VERSION := $(VERSION_MAJOR).$(VERSION_MINOR).$(VERSION_MICRO)
 
