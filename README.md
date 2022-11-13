@@ -4,7 +4,7 @@
 To have a base project to create some tools on n3DS.
 
 ## From:
-This repo is a fork from [FTPD](https://github.com/mtheall/ftpd) project.
+This repo is based from [FTPD](https://github.com/mtheall/ftpd) project.
 
 ## Build
 First you need to setup  [this](https://devkitpro.org/wiki/Getting_Started)
